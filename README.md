@@ -1,5 +1,5 @@
 # snake-game
-A Simple Snake Game Using turtle module for GUI
-To Play the Game
-  Download files and run main.py file
+A Simple Snake Game Using turtle module for GUI<br/>
+To Play the Game<br/>
+  Download files and run main.py file<br/>
   Use arrow keys to control the snake
